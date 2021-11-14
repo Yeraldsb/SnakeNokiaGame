@@ -6,7 +6,8 @@ Very basic ganme of the snake
 </br> </br></br> </br></br> </br></br> </br></br> </br></br> </br>
 
 The picture above shows how the game should look like
-
+ 
+ -📹 Followed video : https://www.youtube.com/watch?v=aP-Jcdwqrz0 <br>
 
 ## Installation
 I used Intellij IDEA and crerated a new java proyect, in case you are using VS Code add the Java Extension Pack (vscjava.vscode-java-pack) plugin to compile.
