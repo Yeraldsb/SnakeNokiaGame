@@ -1,0 +1,7 @@
+- Jframe porque sera una ventana emergente, los metodos setSize y demas vienen con ella, por eso los usamos
+
+-Java.awt.event.*; para interactuar con las teclas
+
+-java.awt.Toolkit; se utiliza para dar le tamaño de las ventanas para poder especificar
+
+- java.awt.Point; Para poder tener el punto de partida en el plano
