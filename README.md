@@ -2,6 +2,8 @@
 
 Very basic ganme of the snake
 
+<img width="350" height="300" align="left" src="https://github.com/Yeraldsb/SnakeNokiaGame/blob/master/snake.gif" alt="yeraldsb" /> </br> </br>
+</br> </br></br> </br></br> </br></br> </br></br> </br></br> </br>
 
 The picture above shows how the game should look like
 
